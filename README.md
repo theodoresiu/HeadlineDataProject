@@ -1,1 +1,2 @@
 # HeadlineDataProject
+This project was created for my interview for the Insight Data Science Fellowship. Headlines are queried using API's for New York Times and NPR. Buzzfeed headlines are manually scraped. All headlines are stored in MongoDB. Pandas, numpy and matplotlib are then used to analyze the headlines.
